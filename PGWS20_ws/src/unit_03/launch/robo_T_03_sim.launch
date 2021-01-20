@@ -1,0 +1,26 @@
+<launch>
+
+<!-- University of Bonn, Department of Computer Science VI,  LAB mobile robots -->
+<!-- Unit 03 -->
+<!-- Launch file for robo_T using the stage simulation -->
+
+<!-- start stage node -->
+	<node pkg="stage_ros" name="stageros" type="stageros" output="screen" args="$(find AIS_worlds)/prakt_01.world">
+ <remap from="base_scan" to="laserscan"/>
+	</node>
+
+<!-- start robo_T node -->
+	<node pkg="unit_03" type="robo_T" output="screen" name="Just_move">
+	</node>
+	
+<!-- start rviz node -->
+	<node pkg="rviz" type="rviz" name="viz">
+	</node>
+
+<!-- start map server -->
+	<node pkg="map_server" type="map_server" name="map_server" args="$(find AIS_worlds)/prakt_01.yaml">
+	</node>
+
+	
+</launch>
+

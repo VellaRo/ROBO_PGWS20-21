@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/dikstra.cpp
+iostream
+-
+vector
+-
+string
+-
+list
+-
+limits
+-
+set
+-
+utility
+-
+algorithm
+-
+iterator
+-
+dikstra.h
+/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/dikstra.h
+
+/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/dikstra.h
+list
+-
+
+/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/knoten.cpp
+stdio.h
+-
+iostream
+-
+

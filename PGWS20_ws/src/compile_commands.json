@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/experiment_03",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"experiment_03\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_3_0.dir/src/robo_3_0.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/experiment_03/src/robo_3_0.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/experiment_03/src/robo_3_0.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/experiment_03",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"experiment_03\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_3_1.dir/src/robo_3_1.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/experiment_03/src/robo_3_1.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/experiment_03/src/robo_3_1.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_01",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_01\\\" -I/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_G.dir/src/robo_G.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_G.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_G.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_01",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_01\\\" -I/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_C.dir/src/robo_C.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_C.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_C.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_01",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_01\\\" -I/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_B.dir/src/robo_B.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_B.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_B.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_01",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_01\\\" -I/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_D.dir/src/robo_D.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_D.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_D.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_01",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_01\\\" -I/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_A.dir/src/robo_A.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_A.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_01/src/robo_A.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_02",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_02\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_WallFollower.dir/src/robo_WallFollower.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_02/src/robo_WallFollower.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_02/src/robo_WallFollower.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_02",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_02\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_GroesteFlaeche.dir/src/robo_GroesteFlaeche.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_02/src/robo_GroesteFlaeche.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_02/src/robo_GroesteFlaeche.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_02",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_02\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_I.dir/src/robo_I.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_02/src/robo_I.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_02/src/robo_I.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_03",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_03\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_AMCL_Test3.dir/src/robo_AMCL_Test3.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/robo_AMCL_Test3.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/robo_AMCL_Test3.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_03",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_03\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_AMCL_Test.dir/src/robo_AMCL_Test.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/robo_AMCL_Test.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/robo_AMCL_Test.cpp"
+},
+{
+  "directory": "/home/rosario/Projects/ros_world/PGWS20_ws/build/unit_03",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"unit_03\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp    -o CMakeFiles/robo_T.dir/src/robo_T.cpp.o -c /home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/robo_T.cpp",
+  "file": "/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/robo_T.cpp"
+}
+]

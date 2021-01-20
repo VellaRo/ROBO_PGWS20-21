@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/graph.cpp
+iostream
+-
+vector
+-
+queue
+-
+algorithm
+-
+array
+-
+graph.h
+/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/graph.h
+
+/home/rosario/Projects/ros_world/PGWS20_ws/src/unit_03/src/graph.h
+iostream
+-
+vector
+-
+queue
+-
+array
+-
+

@@ -1,0 +1,8 @@
+prefix=/home/rosario/Projects/ros_world/PGWS20_ws/install
+
+Name: unit_03
+Description: Description of unit_03
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
